@@ -1,2 +1,2 @@
 const student="hello"
-console.log("hello");
+let name ="joy"
