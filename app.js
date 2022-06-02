@@ -1,2 +1,4 @@
 const student="hello"
-let name ="joy"
+
+let name2="ami tumi"
+console.log("hi")
